@@ -104,7 +104,6 @@ main {
 }
 .hero article p {
 	font-size: 1.5rem;
-	font-weight: 200;
 }
 .hero article a {
 	padding: 1rem;
@@ -161,7 +160,6 @@ main {
 	width: 100%;
 	color: white;
 	font-style: italic;
-	font-weight: bold;
 	text-align: center;
 	font-size: 18px;
 	padding: 4px 0;
@@ -268,7 +266,6 @@ main {
 }
 .reviewer-date {
 	font-size: 0.8em;
-	/* font-weight: lighter; */
 }
 .review-body {
 	padding: 0.5em 1em 1em;
