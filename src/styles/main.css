@@ -76,7 +76,7 @@
 	transition: all 0.5s ease-in-out;
 }
 main {
-	margin-top: 61.3px;
+	margin-top: 3.7rem;
 	/* overflow: hidden; */
 }
 .hero {
@@ -366,9 +366,6 @@ footer {
 	}
 	.nav-links.active {
 		display: flex;
-	}
-	main {
-		margin-top: 60px;
 	}
 }
 @media only screen and (min-width: 576px) {
